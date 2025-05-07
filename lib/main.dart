@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'screens/login_screen.dart'; // add this line
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -14,10 +15,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'MediLink',
-      home: Scaffold(
-        appBar: AppBar(title: const Text('MediLink')),
-        body: const Center(child: Text('Welcome to MediLink!')),
-      ),
+      theme: ThemeData(primarySwatch: Colors.blue),
+      home: const LoginScreen(), // set this as home
     );
   }
 }
