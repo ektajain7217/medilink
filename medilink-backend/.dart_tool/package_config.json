@@ -32,6 +32,24 @@
       "languageVersion": "3.4"
     },
     {
+      "name": "cloud_firestore",
+      "rootUri": "file:///C:/Users/Ekta%20Jain/AppData/Local/Pub/Cache/hosted/pub.dev/cloud_firestore-4.17.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cloud_firestore_platform_interface",
+      "rootUri": "file:///C:/Users/Ekta%20Jain/AppData/Local/Pub/Cache/hosted/pub.dev/cloud_firestore_platform_interface-6.2.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cloud_firestore_web",
+      "rootUri": "file:///C:/Users/Ekta%20Jain/AppData/Local/Pub/Cache/hosted/pub.dev/cloud_firestore_web-3.12.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
       "name": "collection",
       "rootUri": "file:///C:/Users/Ekta%20Jain/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.19.1",
       "packageUri": "lib/",
@@ -80,6 +98,24 @@
       "languageVersion": "3.4"
     },
     {
+      "name": "firebase_storage",
+      "rootUri": "file:///C:/Users/Ekta%20Jain/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_storage-11.6.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_storage_platform_interface",
+      "rootUri": "file:///C:/Users/Ekta%20Jain/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_storage_platform_interface-5.1.22",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_storage_web",
+      "rootUri": "file:///C:/Users/Ekta%20Jain/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_storage_web-3.6.22",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///C:/Users/Ekta%20Jain/Downloads/flutter_windows_3.29.3-stable/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -96,6 +132,12 @@
       "rootUri": "file:///C:/Users/Ekta%20Jain/Downloads/flutter_windows_3.29.3-stable/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "3.7"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///C:/Users/Ekta%20Jain/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
     },
     {
       "name": "http_parser",
@@ -230,7 +272,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-05-07T05:31:48.665276Z",
+  "generated": "2025-05-07T06:23:02.149884Z",
   "generator": "pub",
   "generatorVersion": "3.7.2",
   "flutterRoot": "file:///C:/Users/Ekta%20Jain/Downloads/flutter_windows_3.29.3-stable/flutter",
